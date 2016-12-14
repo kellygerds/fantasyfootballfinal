@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+	font-family: 'Anton', sans-serif;
+	color:black;
+	background-image: url("https://c1.staticflickr.com/9/8872/17493747326_86f1315787_b.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
